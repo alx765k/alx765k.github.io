@@ -17,3 +17,10 @@ title: "Welcome to My Portfolio"
 ![Bee on Wheels](assets/recharge.png)
 
 - [Second game / Prototype](https://thisiskrispy.itch.io/bees-on-wheels)
+
+## Current Project ( In-Development )
+
+![Untitled Pending](assets/icon.PNG)
+
+- Current Project in Development
+- Development in Godot 4.3
