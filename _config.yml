@@ -8,3 +8,7 @@ description: "A list of my coding projects / game dev adventures"
 header_pages:
   - projects.md
   - about.md
+
+# Include custom SASS styles
+sass:
+  style: compressed
