@@ -2,6 +2,12 @@
 layout: default
 title: "Welcome to My Portfolio"
 ---
-## My Projects
+# My Projects
 
+## Recharge Frenzy!
 - [First game/demo created](https://thisiskrispy.itch.io/buddyup-jam-2024)
+- Created for the Buddy Up Jam 2024.
+- First demo created with Godot
+
+## Bears and Bees
+- [Second game / Prototype](https://thisiskrispy.itch.io/bees-on-wheels)
