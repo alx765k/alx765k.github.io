@@ -18,7 +18,7 @@ title: "Welcome to My Portfolio"
 
 - [Second game / Prototype](https://thisiskrispy.itch.io/bees-on-wheels)
 
-## Current Project ( In-Development )
+## Current Project ( Pending Title )
 
 ![Untitled Pending](assets/icon.PNG)
 
